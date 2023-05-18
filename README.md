@@ -5,6 +5,9 @@ the user.  This is a cheating version of hangman that delays picking a word
 to keep its options open. Class HangmanManager was created by me for the HangmanMain
 to use. HangmanMain initiates the actions and HangmanManager defines the processes
 that HangmanMain is to initiate.
+* A hangman game where the computer wins 99.99% of the time
+*	Utilized Maps and Sets for storing/choosing the perfect word
+
 
 ## What I've learned
 * Data Structures
